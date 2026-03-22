@@ -1,0 +1,123 @@
+{
+    "nav_home": "Home",
+    "nav_catalog": "Catalog",
+    "nav_faq": "FAQ",
+    "nav_contact": "Contact Us",
+    "nav_cta": "Get in Touch",
+    "hero_label": "Premium Aquarium Design Studio",
+    "hero_title_1": "Where water meets",
+    "hero_title_2": "artistry.",
+    "hero_desc": "Venesia Aquaria Design crafts bespoke aquascapes and aquarium installations — transforming spaces with living, breathing works of art.",
+    "hero_btn_catalog": "View Catalog",
+    "hero_btn_contact": "Contact Us",
+    "hero_badge_1": "Custom Aquascapes",
+    "hero_badge_2": "Maintenance Plans",
+    "hero_badge_3": "Nationwide Delivery",
+    "catalog_label": "Catalog",
+    "catalog_title_1": "Explore our",
+    "catalog_title_2": "collections.",
+    "catalog_subtitle": "From lush freshwater scapes to dramatic reef systems — find the perfect aquarium for your space.",
+    "catalog_see_all": "See All Collections",
+    "catalog_back": "Back to Home",
+    "catalog_page_title_1": "All collections.",
+    "catalog_page_title_2": "",
+    "catalog_items": [
+        {
+            "image": "[ Image 1 ]",
+            "title": "Nature Aquascape",
+            "desc": "Lush planted layouts inspired by natural landscapes. Perfect for serene living rooms and offices.",
+            "tag": "Freshwater"
+        },
+        {
+            "image": "[ Image 2 ]",
+            "title": "Reef Systems",
+            "desc": "Vibrant coral reef setups with full marine ecosystems. A living ocean in your space.",
+            "tag": "Saltwater"
+        },
+        {
+            "image": "[ Image 3 ]",
+            "title": "Minimalist Tanks",
+            "desc": "Clean-lined, architectural aquariums for modern interiors. Less is more.",
+            "tag": "Contemporary"
+        },
+        {
+            "image": "[ Image 4 ]",
+            "title": "Paludarium",
+            "desc": "Half land, half water — tropical environments that blur the boundary between aquatic and terrestrial.",
+            "tag": "Hybrid"
+        },
+        {
+            "image": "[ Image 5 ]",
+            "title": "Custom Installations",
+            "desc": "Wall-mounted, room dividers, and freestanding — designed and built to your exact vision.",
+            "tag": "Bespoke"
+        },
+        {
+            "image": "[ Image 6 ]",
+            "title": "Maintenance Packages",
+            "desc": "Weekly and monthly care plans so your aquarium stays pristine without lifting a finger.",
+            "tag": "Service"
+        }
+    ],
+    "about_label": "Our Story",
+    "about_title_1": "Crafted with care,",
+    "about_title_2": "one tank at a time.",
+    "about_p1": "Venesia Aquaria Design was born from a deep love for aquatic ecosystems and the belief that every space deserves a living masterpiece. We blend nature, design, and engineering to create aquariums that captivate.",
+    "about_p2": "From initial consultation to ongoing maintenance, our team of aquascapers and marine biologists ensure every installation thrives.",
+    "about_stat_1_num": "500+",
+    "about_stat_1_label": "Aquariums installed",
+    "about_stat_2_num": "12",
+    "about_stat_2_label": "Years of craft",
+    "about_stat_3_num": "98%",
+    "about_stat_3_label": "Client satisfaction",
+    "about_photo": "[ Studio photo here ]",
+    "testimonials_label": "Testimonials",
+    "testimonials_title": "What our clients say.",
+    "testimonials": [
+        {
+            "quote": "Venesia Aquaria transformed our hotel lobby into a stunning underwater gallery. Guests can't stop admiring it.",
+            "name": "Rachel Tan",
+            "role": "GM, The Fullerton Hotel"
+        },
+        {
+            "quote": "The level of detail and care in their work is extraordinary. Our reef tank is the centerpiece of our home.",
+            "name": "David Lim",
+            "role": "Private Residence"
+        },
+        {
+            "quote": "Professional, creative, and passionate. The maintenance plan keeps everything thriving effortlessly.",
+            "name": "Aisha Rahman",
+            "role": "Office Manager, Greenvale HQ"
+        }
+    ],
+    "faq_label": "FAQ",
+    "faq_title_1": "Questions?",
+    "faq_title_2": "We've got answers.",
+    "faq_subtitle": "Everything you need to know about working with Venesia Aquaria Design.",
+    "faq_still": "Still have questions?",
+    "faq_loading": "Loading FAQ...",
+    "faq_error": "Could not load FAQ data.",
+    "faq_error_hint": "Make sure faq-data.json is in your public/ folder.",
+    "contact_label": "Contact Us",
+    "contact_title_1": "Let's create",
+    "contact_title_2": "something alive.",
+    "contact_desc": "Ready to bring your aquarium vision to life? Reach out and we'll design something extraordinary together.",
+    "contact_form_name": "Name",
+    "contact_form_name_ph": "Your full name",
+    "contact_form_email": "Email",
+    "contact_form_email_ph": "you@example.com",
+    "contact_form_msg": "Message",
+    "contact_form_msg_ph": "Tell us about your project...",
+    "contact_form_submit": "Send Message",
+    "footer_desc": "Bespoke aquarium design and installation. Bringing nature's beauty into your space.",
+    "footer_links": "Quick Links",
+    "footer_services": "Services",
+    "footer_services_items": [
+        "Aquascape Design",
+        "Reef Installation",
+        "Maintenance Plans",
+        "Consultation"
+    ],
+    "footer_follow": "Follow Us",
+    "footer_copyright": "© 2026 Venesia Aquaria Design. All rights reserved."
+}

@@ -1,0 +1,123 @@
+{
+  "nav_home": "Beranda",
+  "nav_catalog": "Katalog",
+  "nav_faq": "FAQ",
+  "nav_contact": "Hubungi Kami",
+  "nav_cta": "Hubungi Kami",
+  "hero_label": "Studio Desain Akuarium Premium",
+  "hero_title_1": "Dimana air bertemu",
+  "hero_title_2": "seni.",
+  "hero_desc": "Venesia Aquaria Design menciptakan aquascape dan instalasi akuarium eksklusif — mengubah ruang dengan karya seni yang hidup dan bernapas.",
+  "hero_btn_catalog": "Lihat Katalog",
+  "hero_btn_contact": "Hubungi Kami",
+  "hero_badge_1": "Aquascape Custom",
+  "hero_badge_2": "Paket Perawatan",
+  "hero_badge_3": "Pengiriman Nasional",
+  "catalog_label": "Katalog",
+  "catalog_title_1": "Jelajahi",
+  "catalog_title_2": "koleksi kami.",
+  "catalog_subtitle": "Dari aquascape air tawar yang rimbun hingga sistem terumbu yang dramatis — temukan akuarium sempurna untuk ruang Anda.",
+  "catalog_see_all": "Lihat Semua Koleksi",
+  "catalog_back": "Kembali ke Beranda",
+  "catalog_page_title_1": "Semua koleksi",
+  "catalog_page_title_2": "",
+  "catalog_items": [
+    {
+      "image": "[ Gambar 1 ]",
+      "title": "Nature Aquascape",
+      "desc": "Tata letak tanaman rimbun terinspirasi dari lanskap alam. Sempurna untuk ruang tamu dan kantor yang tenang.",
+      "tag": "Air Tawar"
+    },
+    {
+      "image": "[ Gambar 2 ]",
+      "title": "Sistem Terumbu",
+      "desc": "Setup terumbu karang yang semarak dengan ekosistem laut lengkap. Samudra hidup di ruang Anda.",
+      "tag": "Air Laut"
+    },
+    {
+      "image": "[ Gambar 3 ]",
+      "title": "Akuarium Minimalis",
+      "desc": "Akuarium berdesain arsitektural dengan garis bersih untuk interior modern. Less is more.",
+      "tag": "Kontemporer"
+    },
+    {
+      "image": "[ Gambar 4 ]",
+      "title": "Paludarium",
+      "desc": "Setengah daratan, setengah air — lingkungan tropis yang mengaburkan batas antara akuatik dan terestrial.",
+      "tag": "Hibrida"
+    },
+    {
+      "image": "[ Gambar 5 ]",
+      "title": "Instalasi Custom",
+      "desc": "Model dinding, pembatas ruangan, dan berdiri sendiri — dirancang dan dibangun sesuai visi Anda.",
+      "tag": "Eksklusif"
+    },
+    {
+      "image": "[ Gambar 6 ]",
+      "title": "Paket Perawatan",
+      "desc": "Rencana perawatan mingguan dan bulanan agar akuarium Anda tetap sempurna tanpa repot.",
+      "tag": "Layanan"
+    }
+  ],
+  "about_label": "Cerita Kami",
+  "about_title_1": "Dibuat dengan penuh perhatian,",
+  "about_title_2": "satu akuarium pada satu waktu.",
+  "about_p1": "Venesia Aquaria Design lahir dari kecintaan mendalam terhadap ekosistem akuatik dan keyakinan bahwa setiap ruang layak mendapatkan mahakarya yang hidup. Kami memadukan alam, desain, dan rekayasa untuk menciptakan akuarium yang memukau.",
+  "about_p2": "Dari konsultasi awal hingga perawatan berkelanjutan, tim aquascaper dan ahli biologi kelautan kami memastikan setiap instalasi berkembang dengan baik.",
+  "about_stat_1_num": "500+",
+  "about_stat_1_label": "Akuarium terpasang",
+  "about_stat_2_num": "12",
+  "about_stat_2_label": "Tahun pengalaman",
+  "about_stat_3_num": "98%",
+  "about_stat_3_label": "Kepuasan klien",
+  "about_photo": "[ Foto studio di sini ]",
+  "testimonials_label": "Testimoni",
+  "testimonials_title": "Apa kata klien kami.",
+  "testimonials": [
+    {
+      "quote": "Venesia Aquaria mengubah lobi hotel kami menjadi galeri bawah air yang menakjubkan. Tamu tidak bisa berhenti mengaguminya.",
+      "name": "Rachel Tan",
+      "role": "GM, The Fullerton Hotel"
+    },
+    {
+      "quote": "Tingkat detail dan perhatian dalam pekerjaan mereka luar biasa. Akuarium terumbu kami menjadi pusat perhatian rumah.",
+      "name": "David Lim",
+      "role": "Residensi Pribadi"
+    },
+    {
+      "quote": "Profesional, kreatif, dan penuh semangat. Paket perawatan membuat semuanya berkembang tanpa repot.",
+      "name": "Aisha Rahman",
+      "role": "Manajer Kantor, Greenvale HQ"
+    }
+  ],
+  "faq_label": "FAQ",
+  "faq_title_1": "Pertanyaan?",
+  "faq_title_2": "Kami punya jawabannya.",
+  "faq_subtitle": "Semua yang perlu Anda ketahui tentang bekerja dengan Venesia Aquaria Design.",
+  "faq_still": "Masih ada pertanyaan?",
+  "faq_loading": "Memuat FAQ...",
+  "faq_error": "Tidak dapat memuat data FAQ.",
+  "faq_error_hint": "Pastikan faq-data.json ada di folder public/ Anda.",
+  "contact_label": "Hubungi Kami",
+  "contact_title_1": "Mari ciptakan",
+  "contact_title_2": "sesuatu yang hidup.",
+  "contact_desc": "Siap mewujudkan visi akuarium Anda? Hubungi kami dan kami akan mendesain sesuatu yang luar biasa bersama.",
+  "contact_form_name": "Nama",
+  "contact_form_name_ph": "Nama lengkap Anda",
+  "contact_form_email": "Email",
+  "contact_form_email_ph": "anda@contoh.com",
+  "contact_form_msg": "Pesan",
+  "contact_form_msg_ph": "Ceritakan tentang proyek Anda...",
+  "contact_form_submit": "Kirim Pesan",
+  "footer_desc": "Desain dan instalasi akuarium eksklusif. Membawa keindahan alam ke ruang Anda.",
+  "footer_links": "Tautan Cepat",
+  "footer_services": "Layanan",
+  "footer_services_items": [
+    "Desain Aquascape",
+    "Instalasi Terumbu",
+    "Paket Perawatan",
+    "Konsultasi"
+  ],
+  "footer_follow": "Ikuti Kami",
+  "footer_copyright": "© 2026 Venesia Aquaria Design. Hak cipta dilindungi."
+}
